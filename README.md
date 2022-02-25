@@ -4,17 +4,16 @@
 - 🔭 I’m currently working on **Kmeleon.tech**
 
 - 🌱 I’m currently learning **Power BI**
-- 
 - ⚡ Fun fact **I like to learn new languages**
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jade-odet-ba%C3%B1uelos-66a02418b/](https://www.linkedin.com/in/jade-odet-ba%C3%B1uelos-66a02418b/)
 
 - 📫 How to reach me **jadebanuelosg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jade odet bañuelos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jadeodetbañuelos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jade odet bañuelos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jade-odet-bañuelos" height="30" width="40" /></a>
 <a href="https://instagram.com/jadebanuelosg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jadebanuelosg" height="30" width="40" /></a>
+<a href="https://discord.gg/4975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4975" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
