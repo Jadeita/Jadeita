@@ -2,7 +2,7 @@
 
 
 <h3 align="center">Software Developer and Q&A engineer</h3>
-<p> <img align="right" alt="gif" src="https://github.com/Jadeita/Jadeita/blob/main/gif1.gif" width="500" height="320" />  
+<p> <img align="center" alt="gif" src="https://github.com/Jadeita/Jadeita/blob/main/gif1.gif" width="500" height="320" />  
 </p>
 
 <h3 align="left"> 👩🏽‍💻About me:</h3>
