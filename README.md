@@ -2,9 +2,10 @@
 
 
 <h3 align="center">Software Developer and Q&A engineer</h3>
+<p> <img align="right" alt="gif" src="https://github.com/Jadeita/Jadeita/blob/main/gif1.gif" width="500" />  
+</p>
 
 <h3 align="left"> 👩🏽‍💻About me:</h3>
-
 - 🔭 I’m currently working on **Kmeleon.tech**
 - 🌱 I’m currently learning **Power BI**
 - ⚡ Fun fact **I like to learn new languages**
@@ -13,6 +14,7 @@
 - 📫 How to reach me **jadebanuelosg@gmail.com**
 
 <h3 align="left">💙 Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/jadebanuelos11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jadebanuelos11" height="30" width="40" /></a>
 <a href="https://instagram.com/jadebanzuelosg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jadebanuelosg" height="30" width="40" /></a> 
