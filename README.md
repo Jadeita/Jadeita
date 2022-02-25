@@ -2,16 +2,20 @@
 
 
 <h3 align="center">Software Developer and Q&A engineer</h3>
-<p> <img align="right" alt="gif" src="https://github.com/Jadeita/Jadeita/blob/main/gif1.gif" width="500" />  
+<p> <img align="right" alt="gif" src="https://github.com/Jadeita/Jadeita/blob/main/gif1.gif" width="500" height="320" />  
 </p>
 
 <h3 align="left"> 👩🏽‍💻About me:</h3>
 - 🔭 I’m currently working on **Kmeleon.tech**
 - 🌱 I’m currently learning **Power BI**
 - ⚡ Fun fact **I like to learn new languages**
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jade-odet-ba%C3%B1uelos-66a02418b/](https://www.linkedin.com/in/jade-odet-ba%C3%B1uelos-66a02418b/)
+- 📝 I regularly write articles on (https://www.linkedin.com/in/jade-odet-ba%C3%B1uelos-66a02418b/)
 
 - 📫 How to reach me **jadebanuelosg@gmail.com**
+
+
+
+
 
 <h3 align="left">💙 Connect with me:</h3>
 
