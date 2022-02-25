@@ -1,4 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jade Bañuelos</h1>
+![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+Explicación
+
+
 <h3 align="center">Software Developer and Q&A engineer</h3>
 
 - 🔭 I’m currently working on **Kmeleon.tech**
