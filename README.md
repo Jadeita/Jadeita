@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **Power BI**
 - ⚡ Fun fact **I like to learn new languages**
 - 📝 I regularly write articles on (https://www.linkedin.com/in/jade-odet-ba%C3%B1uelos-66a02418b/)
-
 - 📫 How to reach me **jadebanuelosg@gmail.com**
 
 
