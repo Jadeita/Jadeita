@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jade Bañuelos</h1>
 
-<p> <img align="center" alt="gif" src="https://github.com/Jadeita/Jadeita/blob/main/gif1.gif" width="800" height="420" /></p>
+<p> <img align="center" alt="gif" src="https://github.com/Jadeita/Jadeita/blob/main/gif1.gif" width="1000" height="620" /></p>
 
 
 <h3 align="center">Software Developer and Q&A engineer</h3>
