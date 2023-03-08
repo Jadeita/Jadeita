@@ -9,9 +9,13 @@
 
 <h3 align="left"> 👩🏽‍💻About me: </h3>
 
-- 🔭 I’m currently working on **Kmeleon.tech**
+- 🔭 I’m currently looking for work
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning more about **frontend**
+
+- ❤️ I really REALLY like **UI/UX Design**
+
+- 💻 I have experience in QA
 
 - ⚡ Fun fact **I like to learn new languages**
 
