@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently looking for work
 
-- 🌱 I’m currently learning more about **frontend**
+- 🌱 I’m currently learning more about **UI DESIGN**
 
 - ❤️ I really REALLY like **UI/UX Design**
 
