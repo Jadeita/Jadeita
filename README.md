@@ -9,9 +9,7 @@
 
 <h3 align="left"> 👩🏽‍💻About me: </h3>
 
-- 🔭 I’m currently looking for work
-
-- 🌱 I’m currently learning more about **UI DESIGN**
+-  ☕Process Manager 
 
 - ❤️ I really REALLY like **UI/UX Design**
 
